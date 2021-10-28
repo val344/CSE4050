@@ -1,0 +1,12 @@
+body {
+background -color: lightred;
+}
+h1 {
+color: orange;
+text-align: right;
+}
+
+p {
+  font-family: ariel;
+  font-size: 10px;
+}

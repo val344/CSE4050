@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+    <title>
+        Simple HTML webpage with CSS style
+    </title>
+ 
+    <!-- Stylesheet of web page -->
+    <style>
+        body {
+            text-align: center;
+        }
+ 
+        h1 {
+            color: green;
+        }
+    </style>
+</head>
+ 
+<body>
+    <h1>Welcome to GeeksforGeeks</h1>
+ 
+    <p>A computer science portal for geeks</p>
+</body>
+ 
+</html>
